@@ -2,7 +2,8 @@
 - 💻 I'm a Software developer 
 - 🔭 I’m currently working on  AI realted projects
 - 🌱 I’m currently exploring Machine learning
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charan-/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charan-/) /udayagiricharankumar@gmail.com
+
 
 
 
