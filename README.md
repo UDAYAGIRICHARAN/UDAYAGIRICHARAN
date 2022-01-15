@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on  AI realted projects
 - 🌱 I’m currently exploring Machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charan-/) /[udayagiricharankumar@gmail.com](udayagiricharankumar.gmail.com)
-- 💻 My portfolio website (temporary): [Click Here!](https://srinijadharani.github.io/portfolio-2.0/)
+- 💻 My portfolio website (temporary): [Click Here!](https://udayagiricharan.github.io/)
 
 
 
