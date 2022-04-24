@@ -5,7 +5,9 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charan-/) /[udayagiricharankumar@gmail.com](udayagiricharankumar.gmail.com)
 - 💻 My portfolio website (temporary): [Click Here!](https://udayagiricharan.github.io/)
 
-
+## &#x1f4c8; GitHub Stats
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayagiricharan&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="udayagiricharan" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayagiricharan&theme=midnight-purple" alt="udayagiricharan" /></p>
 
 
 
