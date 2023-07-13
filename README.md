@@ -7,8 +7,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://udayagiricharan.netlify.app/#/home" alt="UDAYAGIRICHARAN" /></p>
-
 <!--
 **UDAYAGIRICHARAN/UDAYAGIRICHARAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
