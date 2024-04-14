@@ -1,7 +1,5 @@
 ### Hi there �
 - 💻 I'm a Software Engineer 
-- 🔭 I’m currently working on Full stack\ Development 
-- 🌱 I’m currently exploring Machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charan-/) /[udayagiricharankumar@gmail.com](udayagiricharankumar.gmail.com)
 - 💻 My portfolio website (temporary): [Click Here!](https://udayagiricharan.netlify.app/#/home)
 - FrameworksL: Django, Spring Boot, React, NodeJS, Angular
